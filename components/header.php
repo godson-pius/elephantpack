@@ -10,6 +10,15 @@
 		<link rel="shortcut icon" type="image/x-icon" href="img/logo/logo.png">
         <!-- Place favicon.ico in the root directory -->
 
+        <!-- og settings -->
+        <meta property="og:title" content="Elephant Packs Industry Limited"> <!-- TODO: update OG Title --> 
+        <meta property="og:url" content="https://elephantpacksindltd.com">  <!-- TODO: update OG URL --> 
+        <meta property="og:image" content="img/logo/logo.png">
+        <meta property="og:description" content="Elephant Packs Industries LTD is a company created with a vision of recycling plastics and recreating a sustainable products" />
+        <meta property="og:type" content="website">
+        <meta name="twitter:card" content="large-image-twitter.jpg">
+
+
 		<!-- CSS here -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/animate.min.css">
