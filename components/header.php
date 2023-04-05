@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Elephant Packs Industry Limited</title>
-        <meta name="description" content="">
+        <meta name="description" content="Elephant Packs Industries LTD is a company created with a vision of recycling plastics and recreating a sustainable products. We also provide services like helping other companies in packaging their products by providing them with well branded packs and Logistics services as well.">
+        <meta name="keywords" content="Elephant Pack Industry Limited, Elephant, Industry, Polythene bags, bags, nylon, polythene, factory, plastic production, recyling plastics, recyling, enugu, state">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="shortcut icon" type="image/x-icon" href="img/logo/logo.png">
         <!-- Place favicon.ico in the root directory -->
