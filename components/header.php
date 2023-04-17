@@ -99,7 +99,7 @@
                                                 <a href="index">Projects</a>
                                             </li>
 
-                                            <li><a href="index">Careers</a></li>
+                                            <li><a href="career">Careers</a></li>
                                             <!-- <li class="has-sub"><a href="#">Shop</a>
 												<ul>													
 													<li><a href="shop.html">Shop</a></li>

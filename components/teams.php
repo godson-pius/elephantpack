@@ -18,12 +18,12 @@
                                     </div>
                                 </div>
                                 <div class="team-info">
-                                    <h4>Anozie Kingsley</h4>
+                                    <h4>Anozie Kingsley O.C.</h4>
                                     <span>DIRECTOR</span>
                                     <div class="team-social mt-15">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://web.facebook.com/kingsley.c.anozie" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>                                        
+                                        <a href="https://www.instagram.com/anoziek/" target="_blank"><i class="fab fa-instagram"></i></a>                                        
                                     </div>
                                 </div>
                             </div>
@@ -36,8 +36,8 @@
                                     </div>
                                 </div>
                                 <div class="team-info">
-                                    <h4>James Ugwu</h4>
-                                    <span>MARKETING</span>
+                                    <h4>Matthew Anuforo</h4>
+                                    <span>HEAD OF PRINTING</span>
                                     <div class="team-social mt-15">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                                         <a href="#"><i class="fab fa-twitter"></i></a>
@@ -54,10 +54,48 @@
                                     </div>
                                 </div>
                                 <div class="team-info">
-                                    <h4>Emmanuel Obioma</h4>
-                                    <span>SALES MANAGER</span>
+                                    <h4>Tony Agim</h4>
+                                    <span>HEAD OF PRODUCTION</span>
                                     <div class="team-social mt-15">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://web.facebook.com/agim.tony.7" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="#"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://www.instagram.com/agim.tony.589" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                        <div class="col-xl-4">
+                            <div class="single-team text-center mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
+                                <div class="team-thumb">
+                                    <div class="brd">
+                                        <img src="img/team/team_03.png" alt="img">
+                                    </div>
+                                </div>
+                                <div class="team-info">
+                                    <h4>Chukwudi Miracle Ohagwa</h4>
+                                    <span>HEAD OF MARKETING</span>
+                                    <div class="team-social mt-15">
+                                        <a href="https://web.facebook.com/ohagwa.miracle" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="#"><i class="fab fa-twitter"></i></a>
+                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                        <div class="col-xl-4">
+                            <div class="single-team text-center mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
+                                <div class="team-thumb">
+                                    <div class="brd">
+                                        <img src="img/team/team_03.png" alt="img">
+                                    </div>
+                                </div>
+                                <div class="team-info">
+                                    <h4>Jennifer Anozie</h4>
+                                    <span>HEAD OF LOGISTICS</span>
+                                    <div class="team-social mt-15">
+                                        <a href="https://web.facebook.com/jennifer.adaobi.35" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         <a href="#"><i class="fab fa-twitter"></i></a>
                                         <a href="#"><i class="fab fa-instagram"></i></a>
                                     </div>

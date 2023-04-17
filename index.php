@@ -15,7 +15,7 @@
                                         <h2 data-animation="fadeInUp" data-delay=".4s">Elephant Packs <span>Industries LTD </span><br></h2>
                                         <p data-animation="fadeInUp" data-delay=".6s">Elephant Packs Industries LTD is a company created with a vision of recycling plastics and recreating a sustainable products.</p>
                                         <div class="slider-btn mt-40">                                          
-                                            <a href="#" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
+                                            <a href="about" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
                                         </div>
                                     </div>
                                 </div>
@@ -36,7 +36,7 @@
                                          <h2 data-animation="fadeInUp" data-delay=".4s">Elephant Packs <span>Industries LTD </span><br></h2>
                                         <p data-animation="fadeInUp" data-delay=".6s">Elephant Packs Industries LTD is a company created with a vision of recycling plastics and recreating a sustainable products.</p>
                                         <div class="slider-btn mt-40">                                          
-                                            <a href="#" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
+                                            <a href="about" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
                                         </div>
                                     </div>
                                 </div>
@@ -57,7 +57,7 @@
                                          <h2 data-animation="fadeInUp" data-delay=".4s">Elephant Packs <span>Industries LTD </span><br></h2>
                                         <p data-animation="fadeInUp" data-delay=".6s">It is a long established fact that a reader will be distracted by the readable content layout readable English.ratione, id soluta aspernatur nulla minus.</p>
                                         <div class="slider-btn mt-40">                                          
-                                            <a href="#" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
+                                            <a href="about" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
                                         </div>
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@
                                          <h2 data-animation="fadeInUp" data-delay=".4s">Elephant Packs <span>Industries LTD </span><br></h2>
                                         <p data-animation="fadeInUp" data-delay=".6s">It is a long established fact that a reader will be distracted by the readable content layout readable English.ratione, id soluta aspernatur nulla minus.</p>
                                         <div class="slider-btn mt-40">                                          
-                                            <a href="#" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
+                                            <a href="about" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                     </div>
                                 </div> -->
                                <div class="slider-btn mt-30">                                          
-                                            <a href="#" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
+                                            <a href="about" class="btn ss-btn" data-animation="fadeInRight" data-delay=".8s">Read More</a>					<div class="btn-after" data-animation="fadeInRight" data-delay=".8s"></div>						
                                         </div>
                             </div>
                         </div>
