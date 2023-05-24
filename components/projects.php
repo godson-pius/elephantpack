@@ -31,10 +31,11 @@
           data-delay=".2s"
         >
           <div class="project-thumb">
-            <img src="img/portfolio/p_img04.png" alt="img" class="img" />
+            <div class="img" style="width: 448px; height: 395px; background-image: url(img/portfolio/port1.jpeg); background-position: center; background-size: cover; background-repeat: no-repeat;"></div>
+            <!-- <img src="img/portfolio/p_img04.png" alt="img" class="img" /> -->
           </div>
           <div class="project-info">
-            <h4>Plastic Bags</h4>
+            <h4>Poly Rolls</h4>
             <a href="#"
               >Take a Look <img src="img/portfolio/right_icon.svg" alt="img" />
             </a>
@@ -49,7 +50,7 @@
           data-delay=".2s"
         >
           <div class="project-thumb">
-            <img src="img/portfolio/p_img04.png" alt="img" class="img" />
+            <div class="img" style="width: 448px; height: 395px; background-image: url(img/portfolio/port2.jpeg); background-position: center; background-size: cover; background-repeat: no-repeat;"></div>
           </div>
           <div class="project-info">
             <h4>Medium Sized Poly</h4>
@@ -67,10 +68,10 @@
           data-delay=".2s"
         >
           <div class="project-thumb">
-            <img src="img/portfolio/p_img04.png" alt="img" class="img" />
+            <div class="img" style="width: 448px; height: 395px; background-image: url(img/portfolio/port3.jpeg); background-position: center; background-size: cover; background-repeat: no-repeat;"></div>
           </div>
           <div class="project-info">
-            <h4>Large Sized Poly</h4>
+            <h4>Poly</h4>
             <a href="#"
               >Take a Look <img src="img/portfolio/right_icon.svg" alt="img" />
             </a>
@@ -85,7 +86,7 @@
           data-delay=".2s"
         >
           <div class="project-thumb">
-            <img src="img/portfolio/p_img04.png" alt="img" class="img" />
+            <div class="img" style="width: 448px; height: 395px; background-image: url(img/portfolio/port4.jpeg); background-position: center; background-size: cover; background-repeat: no-repeat;"></div>
           </div>
           <div class="project-info">
             <h4>Black Strong Plastic</h4>

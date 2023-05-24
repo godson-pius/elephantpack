@@ -13,7 +13,7 @@
                                 <div class="slider slider-for">
                                 <div class="single-testimonial">                                     
 								    <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
-                                    <p>“Phasellus ut consequat elit. Donec dapibus, dolor ac mollis mollis, sapien lorem gravida magna, eu ullamcorper mi lectus a tortor. Aenean elementum tortor a sem pharetra, in accumsan odio commodo. Nam ultricies ut enim nec accumsan. Vivamus vel nunc eu diam fringilla bibendum laoreet eget felis. Praesent justo mauris, tincidunt vitae nisi ultricies, condimentum finibus quam. Aenean sed velit nulla. Etiam viverra scelerisque porta. Quisque ut dolor aliquam, gravida lacus at, tincidunt ex. Donec dapibus.</p>
+                                    <p>“From the moment I contacted your company, the level of professionalism and responsiveness demonstrated by your team was impressive. The sales representative was extremely knowledgeable and guided me through the various options available to meet my specific requirements. They patiently addressed all my queries and concerns, ensuring that I had a clear understanding of the products and their benefits.</p>
                                     <div class="testi-author">
                                         <img src="img/testimonial/test_img01.png" alt="img">
                                         <div class="ta-info">                                          
@@ -27,7 +27,7 @@
                                 <div class="single-testimonial">
                                     
 								       <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
-                                   <p>“Phasellus ut consequat elit. Donec dapibus, dolor ac mollis mollis, sapien lorem gravida magna, eu ullamcorper mi lectus a tortor. Aenean elementum tortor a sem pharetra, in accumsan odio commodo. Nam ultricies ut enim nec accumsan. Vivamus vel nunc eu diam fringilla bibendum laoreet eget felis. Praesent justo mauris, tincidunt vitae nisi ultricies, condimentum finibus quam. Aenean sed velit nulla. Etiam viverra scelerisque porta. Quisque ut dolor aliquam, gravida lacus at, tincidunt ex. Donec dapibus..</p>
+                                   <p>“I highly recommend Elephant Packs for their efficient and timely delivery. Whenever I place an order, it arrives on time without any issues. Their attention to detail and reliable shipping services make them a trusted partner.</p>
                                     <div class="testi-author">
                                         <img src="img/testimonial/test_img02.png" alt="img">
                                         <div class="ta-info">                                           
@@ -40,7 +40,7 @@
                                 </div>
                                 <div class="single-testimonial">                                    
 								 <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
-                                    <p>“Phasellus ut consequat elit. Donec dapibus, dolor ac mollis mollis, sapien lorem gravida magna, eu ullamcorper mi lectus a tortor. Aenean elementum tortor a sem pharetra, in accumsan odio commodo. Nam ultricies ut enim nec accumsan. Vivamus vel nunc eu diam fringilla bibendum laoreet eget felis. Praesent justo mauris, tincidunt vitae nisi ultricies, condimentum finibus quam. Aenean sed velit nulla. Etiam viverra scelerisque porta. Quisque ut dolor aliquam, gravida lacus at, tincidunt ex. Donec dapibus.</p>
+                                    <p>“The manufacturing process executed by your company was efficient and timely. The polythene products I ordered were delivered promptly, and the quality exceeded my expectations. The materials used were of high-grade, durable, and environmentally friendly. I appreciate the attention to detail and the commitment to delivering a superior product.</p>
                                     <div class="testi-author">
                                         <img src="img/testimonial/test_img03.png" alt="img">
                                         <div class="ta-info">                                            
@@ -52,7 +52,7 @@
                                       <div class="single-testimonial">
                                          
 								 <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
-                                    <p>“Nam liber tempor cum soluta nobis eleifend option congue is nihil imper per tem por legere me doming vulputate velit esse molestiesoluta nobis eleifend option congue is nihil imper per tem por legere me doming vulputate velit esse molestiesoluta nobis eleifend option congue is nihil imper .</p>
+                                    <p>“I was impressed by your company's dedication to sustainability. As an environmentally conscious consumer, it is important for me to support businesses that prioritize eco-friendly practices. I was pleased to learn that your company utilizes recycled materials and implements sustainable manufacturing processes. This commitment to reducing environmental impact is commendable and aligns with my values.</p>
                                            <div class="testi-author">
                                         <img src="img/testimonial/test_img01.png" alt="img">
                                         <div class="ta-info">                                            
