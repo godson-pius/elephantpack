@@ -70,7 +70,6 @@
                                         <div class="testimonial-item"><img src="img/testimonial/test_img02.png" alt="img"></div>
                                         <div class="testimonial-item"><img src="img/testimonial/test_img03.png" alt="img"></div>
                                         <div class="testimonial-item"><img src="img/testimonial/test_img01.png" alt="img"></div>
-                                     
                                 </div>
                                 
                                 
