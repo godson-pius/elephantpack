@@ -17,7 +17,7 @@
                                 </div>
                                 <div class="second-services-content">
                                     <h5><a href="">Plastic Bags</a></h5>       
-                                    <p>Mauris nunc felis, congue eu convallis in, bibendum vitae nisl. Duis vestibulum eget orci maximus pretium.</p>
+                                    <p>We produce in mass quantity plastic bags in our factory. Always available in our industry.</p>
                                 </div>
 								
                             </div>
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="second-services-content">
                                     <h5><a href="">Printing Services</a></h5>       
-                                    <p>Mauris nunc felis, congue eu convallis in, bibendum vitae nisl. Duis vestibulum eget orci maximus pretium.</p>
+                                    <p>We offer Printing Services in our factory. Always available in our industry.</p>
                                 </div>
 								
                             </div>
@@ -43,7 +43,7 @@
                                 </div>
                                 <div class="second-services-content">
                                     <h5><a href="">Packaging Services</a></h5>       
-                                    <p>Mauris nunc felis, congue eu convallis in, bibendum vitae nisl. Duis vestibulum eget orci maximus pretium.</p>
+                                    <p>We have Packaging Services in the industry. Always available in our industry.</p>
                                 </div>
 								
                             </div>

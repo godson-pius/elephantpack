@@ -40,11 +40,10 @@
                                 <div class="footer-link">
                                     <ul>                                        
                                         <li><a href="#"><i class="fas fa-chevron-right"></i> Partners</a></li>
-										<li><a href="#"><i class="fas fa-chevron-right"></i> About Us</a></li>
-                                        <li><a href="#"><i class="fas fa-chevron-right"></i> Career</a></li>
-                                        <li><a href="#"><i class="fas fa-chevron-right"></i> Reviews</a></li>
-                                        <li><a href="#"><i class="fas fa-chevron-right"></i> Terms & Conditions</a></li>
-                                        <li><a href="#"><i class="fas fa-chevron-right"></i> Help</a></li>
+										<li><a href="about"><i class="fas fa-chevron-right"></i> About Us</a></li>
+                                        <li><a href="career"><i class="fas fa-chevron-right"></i> Career</a></li>
+                                        <li><a href=""><i class="fas fa-chevron-right"></i> Terms & Conditions</a></li>
+                                        <li><a href=""><i class="fas fa-chevron-right"></i> Faq</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -56,7 +55,7 @@
                                     <h5>Subscribe To Our News Letter</h5>
                                 </div>
                                 <div class="footer-text mb-20">
-                                    <p>Pellentesque quis volutpat odio, rhoncus tempor tellus. Proin condimentum turpis.</p>
+                                    <p>Subscribe with us to get updated on our new sales and products at all times.</p>
                                      <!-- form -->
                                     <form name="ajax-form" id="contact-form4" action="https://formsubmit.io/send/90aa5128-c301-47bf-ae81-794fa4c07dda" method="post" class="contact-form  newslater">
                                        <div class="form-group">

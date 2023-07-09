@@ -1,6 +1,16 @@
 <?php
     if (isset($_POST['submit'])) {
-        echo "<script>alert('Message sent! We'll reply as soon as possible')</script>";
+        $fullname = $_POST['fullname'];
+        $email = $_POST['email'];
+        $subject = $_POST['subject'];
+        $message = $_POST['message'];
+
+        $sendMail = mail('elepacksiltd@gmail.com', $subject, $message);
+        if ($sendMail) {
+            echo "<script>alert('Message sent! We'll reply as soon as possible')</script>";
+        } else {
+            echo "<script>alert('Failed to send message! Plese try again')</script>";
+        }
     }
 ?>
 <section id="contact" class="contact-area contact-bg pt-95 pb-95 p-relative fix" style="background-image:url(img/bg/contact_bg.png); background-size: cover;background-repeat: no-repeat;">
